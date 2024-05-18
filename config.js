@@ -60,7 +60,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'Codeberg',
-			icon: 'codeberg',
+			icon: 'mountain',
 			link: 'https://mail.protonmail.com/',
 		},
 		{
@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Canvas',
-			icon: 'canvas',
+			icon: 'school',
 			link: 'https://azwestern.instructure.com',
 		},
 		{
