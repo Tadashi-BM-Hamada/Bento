@@ -61,19 +61,19 @@ const CONFIG = {
 			id: '2',
 			name: 'Codeberg',
 			icon: 'mountain',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://codeberg.org/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
-		},
-		{
-			id: '4',
 			name: 'Canvas',
 			icon: 'school',
 			link: 'https://azwestern.instructure.com',
+		},
+		{
+			id: '4',
+			name: 'Todoist',
+			icon: 'Trello',
+			link: 'https://todoist.com',
 		},
 		{
 			id: '5',
